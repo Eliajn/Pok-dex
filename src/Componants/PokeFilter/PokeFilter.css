@@ -1,0 +1,17 @@
+.poke-filter-container{
+    height: 150px;
+    width: 100%;
+    border: 1px solid purple;
+}
+
+.poke-input-container{
+    /* display: flex; */
+}
+
+.filter-title{
+    display: flex;
+}
+
+.input-field{
+    display: flex;
+}
